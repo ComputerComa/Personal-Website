@@ -1,0 +1,5 @@
+ErrorDocument 400 http://wdick.epizy.com/Website/errors/400.html
+ErrorDocument 401 http://wdick.epizy.com/Website/errors/401.html
+ErrorDocument 403 http://wdick.epizy.com/Website/errors/403.html
+ErrorDocument 404 http://wdick.epizy.com/Website/errors/404.html
+ErrorDocument 503 http://wdick.epizy.com/Website/errors/503.html

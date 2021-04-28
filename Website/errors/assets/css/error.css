@@ -1,0 +1,64 @@
+body{
+    background-color: #363537;
+display: block;
+
+}
+#paperclip{
+color: white;
+
+font-size: 75px;
+}
+
+#paperclip-custom{
+    font-size: 75px;
+   z-index: 0;
+
+   
+}
+.float{
+    float: right;
+}
+
+#status-text{
+    margin-top: 10px;
+    color: antiquewhite;
+text-align: center;
+}
+
+
+.box > a:nth-child(3){
+    text-align: center;
+}
+
+.fa-stack-1x, .fa-stack-2x{
+    top: 15vh;
+}
+
+.container{
+    display: flex;
+    color: #fff;
+    min-height: 100vh;
+    height: 100vh;
+     justify-content: center;
+    align-items: center;
+}
+
+.box{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+a{
+    color:rgb(238, 255, 0)
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+

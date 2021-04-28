@@ -1,0 +1,93 @@
+
+body{
+
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+
+.lg{
+font-size: 45px;
+}
+.nav-link{
+    color:rgb(48, 29, 151);
+}
+
+.nav-link:hover{
+    color: white;
+
+}
+
+.nav-link.active{
+    color: rgb(34, 19, 0);
+}
+
+.nav-link:visited{
+    color: saddlebrown
+
+}
+
+.home{
+
+    color: bisque;
+    font-size: 60px;
+
+}
+
+.home:hover{
+    color: rgb(48, 29, 151);
+}
+
+.active.home:hover{
+    color: bisque;
+}
+
+.top-img{
+    
+    width: 512px;
+    height: 288px;
+    border-radius: 10px;
+    border: solid azure 10px;
+    
+}
+.card-text{
+    font-size: xx-large;
+}
+
+
+.card{
+    background-color: silver;
+    color: rgb(51, 51, 51);
+    align-items: center;
+    border-radius: 10px;
+    border: solid azure 10px;
+    padding-top: 10px;
+}
+
+.top-img:hover{
+    background-color: silver;
+    color: rgb(51, 51, 51);
+    align-items: center;
+    border-radius: 10px;
+    border: solid rgb(0, 0, 0) 10px;
+    padding-top: 10px;
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: #6c757d;
+}
+
+.img-me{
+    margin-top: 32px;
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    border: black 2px;
+}
+
+.card-text-small{
+font-size: small;
+
+}
